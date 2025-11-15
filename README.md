@@ -1,22 +1,115 @@
-<h1 align="center">Hi 👋, I'm Sarith Kumar</h1>
-<h3 align="center">A passionate java full-stack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarith-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="sarith-kumar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarith-kumar" alt="sarith-kumar" /></a> </p>
-
-- 🌱 I’m currently learning *Spring boot*
-
-- 📫 How to reach me *sarithponna@gmail.com*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- 🎉 Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=0A66C2&center=true&vCenter=true&width=600&lines=Hello+I'm+Sarith+Kumar;Java+Full+Stack+Developer;Spring+Boot+Enthusiast;Passionate+Coder" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Sarith Kumar</h1>
+<h3 align="center">A Passionate Java Full-Stack Developer from India 🇮🇳</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarith-kumar&show_icons=true&locale=en&layout=compact" alt="sarith-kumar" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarith-kumar&show_icons=true&locale=en" alt="sarith-kumar" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarith-kumar&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarith-kumar&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+# 🚀 About Me
+
+- 🌱 I’m currently learning **Spring Boot**, **Hibernate**, **REST APIs**
+- 💻 I love building **full-stack applications**
+- 🧠 Passionate about **backend development**
+- 📫 Reach me: **sarithponna@gmail.com**
+- ⚡ Fun fact: *I break code to fix it 😄*
+
+---
+
+# 🔗 Connect With Me  
+<p align="left">
+<a href="mailto:sarithponna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/sarith-kumar"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+### **Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### **Backend & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-%23559687?style=for-the-badge&logo=hibernate&logoColor=white" />
+</p>
+
+### **Frontend**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### **Database**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### **Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+# 🧩 Projects Showcase
+
+### 🔥 **1. Spring Boot Employee Management System**
+- REST API with CRUD operations  
+- MySQL database + Hibernate  
+- MVC Architecture  
+👉 *Add link here*
+
+### 🔥 **2. Portfolio Website**
+- HTML, CSS, JavaScript  
+- Fully responsive  
+👉 *Add link here*
+
+### 🔥 **3. Java Console Applications**
+- Pattern problems  
+- Number series  
+- OOPS concepts  
+👉 *Add repo link here*
+
+---
+
+# 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarith-kumar&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarith-kumar&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+---
+
+# 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sarith-kumar&theme=tokyonight" />
+</p>
+
+---
+
+# 🎯 Quote of the Day
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
+
+---
